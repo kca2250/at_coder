@@ -12,4 +12,6 @@ void main() {
   } else {
     print("Alloy");
   }
+
+  // 途中で死んだ。
 }
